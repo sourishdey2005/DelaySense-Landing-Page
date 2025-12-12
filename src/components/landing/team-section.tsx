@@ -3,8 +3,8 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 const teamMembers = [
   { 
     name: 'Nitish Kumar Pandit',
-    role: 'AI & Backend Architect',
-    bio: 'Nitish is the visionary behind the AI models, architecting the core logic that powers DelaySense’s predictive capabilities. His expertise in machine learning and backend systems forms the project’s foundation.',
+    role: 'Web Developer',
+    bio: 'Nitish brings the DelaySense vision to life on the web. He specializes in building responsive, high-performance user interfaces and ensuring a seamless user experience from end to end.',
   },
   { 
     name: 'Sourish Dey',
