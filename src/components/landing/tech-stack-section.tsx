@@ -2,10 +2,10 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
 const techCategories = {
-  "Frontend": ["Next.js", "React", "TypeScript", "Tailwind CSS", "ShadCN UI"],
-  "AI & Machine Learning": ["Genkit", "TensorFlow", "Python", "Jupyter"],
-  "Backend & Database": ["Firebase", "Firestore", "Node.js"],
-  "DevOps & Deployment": ["Google Cloud", "Docker", "GitHub Actions"],
+  "Frontend & Visualization": ["Next.js", "React", "TypeScript", "Tailwind CSS", "ShadCN UI", "Recharts", "Vercel"],
+  "AI & Machine Learning": ["Genkit", "PyTorch", "Scikit-learn", "Apache Kafka", "Kubeflow", "Python"],
+  "Data & Backend": ["Firebase", "PostgreSQL", "TimescaleDB", "Redis", "GraphQL", "Node.js"],
+  "DevOps & Monitoring": ["Google Cloud", "Kubernetes", "Docker", "Terraform", "GitHub Actions", "Prometheus", "Grafana"],
 };
 
 export function TechStackSection() {
@@ -15,7 +15,7 @@ export function TechStackSection() {
         <div className="text-center space-y-4 mb-12">
           <h2 className="font-headline text-3xl md:text-4xl font-bold tracking-tighter">Technology Stack</h2>
           <p className="max-w-2xl mx-auto text-muted-foreground md:text-lg">
-            Built with a modern, scalable, and powerful set of technologies.
+            Built with a modern, scalable, and powerful set of technologies for high-performance data processing and intelligence.
           </p>
         </div>
         <div className="max-w-4xl mx-auto">
