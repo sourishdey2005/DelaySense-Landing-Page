@@ -7,6 +7,11 @@ import { ShowcaseSection } from '@/components/landing/showcase-section';
 import { ContactSection } from '@/components/landing/contact-section';
 import { Footer } from '@/components/landing/footer';
 import { Header } from '@/components/landing/header';
+import { HowItWorksSection } from '@/components/landing/how-it-works-section';
+import { UseCasesSection } from '@/components/landing/use-cases-section';
+import { TestimonialsSection } from '@/components/landing/testimonials-section';
+import { TechStackSection } from '@/components/landing/tech-stack-section';
+import { FaqSection } from '@/components/landing/faq-section';
 
 export default function Home() {
   return (
@@ -16,9 +21,14 @@ export default function Home() {
         <HeroSection />
         <AboutSection />
         <FeaturesSection />
-        <TeamSection />
+        <HowItWorksSection />
+        <UseCasesSection />
         <VisionSection />
         <ShowcaseSection />
+        <TechStackSection />
+        <TestimonialsSection />
+        <FaqSection />
+        <TeamSection />
         <ContactSection />
       </main>
       <Footer />
