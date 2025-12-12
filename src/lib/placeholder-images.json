@@ -8,27 +8,27 @@
     },
     {
       "id": "showcase-logo",
-      "description": "DelaySense logo concept",
-      "imageUrl": "https://images.unsplash.com/photo-1760037034804-2dce280659e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWluaW1hbGlzdCUyMGxvZ298ZW58MHx8fHwxNzY1NTA0MzQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "minimalist logo"
+      "description": "Airplane wing in the clouds",
+      "imageUrl": "https://images.unsplash.com/photo-1527605158555-853f200063e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhaXJwbGFuZSUyMHdpbmd8ZW58MHx8fHwxNzY1NDc1MjA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "airplane wing"
     },
     {
       "id": "showcase-visual",
-      "description": "Aesthetic visual for the brand",
-      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMGdyYWRpZW50fGVufDB8fHx8MTc2NTQ4Njk5NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "abstract gradient"
+      "description": "Airport runway at dusk",
+      "imageUrl": "https://images.unsplash.com/photo-1683971113886-ca5883e598b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWlycG9ydCUyMHJ1bndheXxlbnwwfHx8fDE3NjU1NjQ2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "airport runway"
     },
     {
       "id": "showcase-concept",
-      "description": "Concept artwork for the project",
-      "imageUrl": "https://images.unsplash.com/photo-1763067402275-85a9fc0a07d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmdXR1cmlzdGljJTIwc2tldGNofGVufDB8fHx8MTc2NTU2NDU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "futuristic sketch"
+      "description": "Cockpit view from a plane",
+      "imageUrl": "https://images.unsplash.com/photo-1629221731259-4f0760e3ee89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2NrcGl0JTIwdmlld3xlbnwwfHx8fDE3NjU1NjQ2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cockpit view"
     },
     {
       "id": "showcase-ui",
-      "description": "UI mockup placeholder",
-      "imageUrl": "https://images.unsplash.com/photo-1631093441315-a06b9bcbe63f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXNoYm9hcmQlMjB1aXxlbnwwfHx8fDE3NjU1MDkwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "dashboard ui"
+      "description": "Airplane taking off",
+      "imageUrl": "https://images.unsplash.com/photo-1560017988-c713afdb6a0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhaXJwbGFuZSUyMHRha2VvZmZ8ZW58MHx8fHwxNzY1NDc1NDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "airplane takeoff"
     }
   ]
 }
