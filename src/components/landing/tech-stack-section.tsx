@@ -76,7 +76,7 @@ export function TechStackSection() {
             <div key={category} className="space-y-4">
               <h3 className="font-headline text-xl font-semibold text-primary text-center">{category}</h3>
               <Card className="bg-card/50 backdrop-blur-sm border-border/50 h-full">
-                <CardContent className={`p-6 grid ${techs.length > 6 ? 'grid-cols-4' : 'grid-cols-3'} gap-y-8 gap-x-2`}>
+                <CardContent className={`p-6 grid ${techs.length > 6 ? 'grid-cols-4 pt-8' : 'grid-cols-3'} gap-y-8 gap-x-2`}>
                   {techs.map((tech) => (
                     <div key={tech.name} className="flex flex-col items-center justify-center text-center gap-2 transition-transform duration-300 hover:scale-105">
                       <div className="text-foreground h-8 w-8 flex items-center justify-center">
