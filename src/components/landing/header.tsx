@@ -32,6 +32,7 @@ export function Header() {
         </Link>
         <nav className="hidden md:flex gap-4 sm:gap-6">
           <Link href="#about" className="text-sm font-medium hover:text-primary transition-colors" prefetch={false}>About</Link>
+          <Link href="#features" className="text-sm font-medium hover:text-primary transition-colors" prefetch={false}>Features</Link>
           <Link href="#team" className="text-sm font-medium hover:text-primary transition-colors" prefetch={false}>Team</Link>
           <Link href="#vision" className="text-sm font-medium hover:text-primary transition-colors" prefetch={false}>Vision</Link>
           <Link href="#showcase" className="text-sm font-medium hover:text-primary transition-colors" prefetch={false}>Showcase</Link>
