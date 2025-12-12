@@ -8,8 +8,8 @@ const teamMembers = [
   },
   { 
     name: 'Sourish Dey',
-    role: 'Frontend & UI/UX Specialist',
-    bio: 'Sourish crafts the intuitive and elegant user interface. With a keen eye for design and a passion for user experience, he ensures that the powerful technology is accessible and easy to interact with.',
+    role: 'AI/ML Engineer',
+    bio: 'Sourish specializes in developing and fine-tuning the machine learning algorithms that drive DelaySense. His focus is on model accuracy and performance, turning complex data into actionable predictions.',
   },
   { 
     name: 'Kushagra Mohan',
